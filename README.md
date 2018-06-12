@@ -1,5 +1,5 @@
 
-# Angular
+# AngularNG
 
 This project is aimed to Automate Angular UI based application.
 
