@@ -1,0 +1,185 @@
+{
+  "loginpage": {
+      "username": "s_swepi_1",
+      "password": "s_swepi_2",
+      "loginbutton": "s_swepi_22"
+  },
+  "homepage": {
+       "sitemap": "//img[contains(@src,'icon_sitemap')]",
+       "homeTab": "//a[text()='Home']",
+       "account": "//a[@id='s_sma0']",
+       "accountList": "//a[text()='Accounts List'][@id='s_smc_03']",
+       "file": "//span[text()='File']",
+       "file_logout": "//a[@id='ui-id-32']",
+       "addresses": "//a[contains(@onclick,'Account Detail - Business Address View')]",
+       "admingroup1DQ_old": "//a[text()='Administration - Group 1 Data Quality Administration']",
+       "admingroup1DQ":"//a[@id='s_sma22']",
+       "save": "//button[@aria-label='Options:Save Changes']"
+  },
+  "accountpage": {
+       "newAccount": "//button[@aria-label='Accounts:New']",
+       "newAccount_name_edit": "//input[@id='1_Name']",
+       "newAccount_name": "//td[@id='1_s_1_l_Name']",
+       "newAccount_cleansingStatus": "//td[@id='1_s_1_l_Cleansing_Status']",
+       "newAccount_FreeSpace": "//div[@id='gview_s_1_l']/div[3]",
+       "newAccount_menu": "//button[@title='Accounts Menu']",
+       "newAccount_menu_save":"//button[@title='Accounts Menu']/../ul/li[contains(@data-caption,'Save Record')]/a",
+       "newAccount_delete": "//button[@aria-label='Accounts:Delete']",
+       "dedup_Popup": "",
+       "dedup_MergerSelDupintoCurrent": "//button[@id='s_4_1_122_0_Ctrl']",
+       "dedup_MergerSelDupintoCurrent_1": "//button[@id='s_2_1_2_0_Ctrl']",
+       "dedup_MergeCurrentintoSelDup": "//button[@id='s_4_1_123_0_Ctrl']",
+       "dedup_MergeCurrentintoSelDup_1": "//button[@id='s_2_1_16_0_Ctrl']",
+       "dedup_DelCurrentGoToSelDup": "//button[@id='s_4_1_124_0_Ctrl']",
+       "dedup_DelCurrentGoToSelDup_1": "//button[@id='s_2_1_3_0_Ctrl']",
+       "dedup_Close": "//button[@id='s_4_1_125_0_Ctrl']",
+       "dedup_matchScore": "//td[@id='1_s_4_l_Total_Score']",
+       "dedup_matchScore_1": "//td[@id='1_s_2_l_Total_Score']"
+  },
+   "addresspage": {
+       "newAddr": "//button[@aria-label='Account Addresses:New']",
+       "newAddAddr": "//button[@aria-label='Add Address:New']",
+
+       "newAddr_addrLine1": "//td[@id='1_s_2_l_Street_Address']",
+       "newAddr_addrLine1_old":"//tr[@id='1']/td[3]",
+
+       "newAddr_city": "//tr[@id='1']/td[5]",
+       "newAddr_state": "//tr[@id='1']/td[6]",
+       "newAddr_zip": "//tr[@id='1']/td[7]",
+       "newAddr_country": "//tr[@id='1']/td[8]",
+       "newAddr_CleansingStatus": "//tr[@id='1']/td[9]",
+       "newAddr_RDI": "//tr[@id='1']/td[10]",
+       "newAddr_DPV": "//tr[@id='1']/td[11]",
+       "newAddr_Latitude": "//tr[@id='1']/td[12]",
+       "newAddr_Longitude": "//tr[@id='1']/td[14]",
+
+       "newAddr_addrLine1_edit": "//input[@id='1_Street_Address']",
+       "newAddr_addrLine1_edit_old": "//td[@id='1_s_2_l_Street_Address']/input",
+       
+       "newAddr_city_edit": "//tr[@id='1']/td[5]/input",
+       "newAddr_state_edit": "//tr[@id='1']/td[6]/input",
+       "newAddr_zip_edit": "//tr[@id='1']/td[7]/input",
+       "newAddr_country_edit": "//tr[@id='1']/td[8]/input",
+       "newAddr_CleansingStatus_edit": "//tr[@id='1']/td[9]/input",
+       "newAddr_RDI_edit": "//tr[@id='1']/td[10]/input",
+       "newAddr_DPV_edit": "//tr[@id='1']/td[11]/input",
+       "newAddr_Latitude_edit": "//tr[@id='1']/td[12]/input",
+       "newAddr_Longitude_edit": "//tr[@id='1']/td[14]/input",
+
+       "newAddr_deleteAddr": "//button[@title='Account Addresses:Delete']",
+
+       "deleteAdminData": "//div[@id='a_1']/div/table/tbody/tr/td[4]/button",
+       "deleteAdminData_old": "//button[@title='Addresses:Delete']",
+       "adminDataAddress_menu": "//button[@title='Addresses Menu']",
+       "adminDataAddress_menu_delete_old1": "//button[@title='Addresses Menu']/../ul/li[contains(@data-caption,'Delete Record')]/a[text()='Delete Record              [Ctrl+D]']",
+       "adminDataAddress_menu_delete": "//button[@title='Addresses Menu']/../ul/li[2]/a", 
+       "adminDataAddress_menu_delete_old2": "//a[@id='ui-id-144']",       
+               
+       "newAddr_menu": "//button[@title='Account Addresses Menu']",
+       "newAddr_menu_save": "//button[@title='Account Addresses Menu']/../ul/li[contains(@data-caption,'Save Record')]/a",
+
+       "multiplePopupWindow": "//div[@id='ui-id-261']",
+       "multiplePopupPickAddress": "//button[@id='s_4_1_75_0_Ctrl']",
+       "multiplePopupCancel": "//button[@id='s_4_1_76_0_Ctrl']",
+       "multipleForthAddress": "//td[@id='4_s_4_l_Address_Name']"
+  },
+
+  "admingroup1dataqualitypage": {
+       "optionsManager": "//a[text()='Options Manager']",
+       "businessNameStandardization": "//a[text()='Business Name Standardization']",
+       "dataCleansing": "//a[text()='Data Cleansing']",
+       "dataDeduplication": "//a[text()='Data Deduplication']",
+       "generalBehavior": "//a[text()='General Behavior']",
+       "geoCoding": "//a[text()='GeoCoding']",
+       "logging": "//a[text()='Logging']",
+       "nameCasing": "//a[text()='Name Casing']",
+       "adminData": "//a[@id='s_sma19']",
+       "adminDataAddress": "//a[@id='s_smc_02'][contains(.,'Addresses')]"
+  },
+  
+  "businessNameStandardization_1": {
+       "UpdateAccountswithDnBInformation": "//td[text()='Update Accounts with D&B Information']/following-sibling::td[position()=1]",
+       "UpdateAccountswithDnBInformation_input": "//td[text()='Update Accounts with D&B Information']/following-sibling::td[position()=1]/input",
+       "DnBInteractiveThreshold": "//td[text()='D&B Interactive Threshold']/following-sibling::td[position()=1]",
+       "DnBInteractiveThreshold_input": "//td[text()='D&B Interactive Threshold']/following-sibling::td[position()=1]/input",
+       "DnBBatchUpdateThreshold": "//td[text()='D&B Batch Update Threshold']/following-sibling::td[position()=1]",
+       "DnBBatchUpdateThreshold_input": "//td[text()='D&B Batch Update Threshold']/following-sibling::td[position()=1]/input",
+       "DnBBatchImportThreshold": "//td[text()='D&B Batch Import Threshold']/following-sibling::td[position()=1]",
+       "DnBBatchImportThreshold_input": "//td[text()='D&B Batch Import Threshold']/following-sibling::td[position()=1]/input",
+       "AutomaticBNS": "//td[text()='Automatic Business Name Standardization']/following-sibling::td[position()=1]",
+       "AutomaticBNS_input": "//td[text()='Automatic Business Name Standardization']/following-sibling::td[position()=1]/input",
+       "UpdateAccountAddressesusingFirmNameFile": "//td[text()='Update Account Addresses using Firm Name File']/following-sibling::td[position()=1]",
+       "UpdateAccountAddressesusingFirmNameFile_input": "//td[text()='Update Account Addresses using Firm Name File']/following-sibling::td[position()=1]/input"         
+  },
+  
+  "dataCleansing_1": {
+       "BusinessandPersonalAddressCleansing": "//td[text()='Business and Personal Address Cleansing']/following-sibling::td[position()=1]",
+       "BusinessandPersonalAddressCleansing_input": "//td[text()='Business and Personal Address Cleansing']/following-sibling::td[position()=1]/input",
+       "ProspectAddressCleansing": "//td[text()='Prospect Address Cleansing']/following-sibling::td[position()=1]",
+       "ProspectAddressCleansing_input": "//td[text()='Prospect Address Cleansing']/following-sibling::td[position()=1]/input",
+       "AdminAddressCleansing": "//td[text()='Admin Address Cleansing']/following-sibling::td[position()=1]",
+       "AdminAddressCleansing_input": "//td[text()='Admin Address Cleansing']/following-sibling::td[position()=1]/input",
+       "DPV": "//td[text()='DPV']/following-sibling::td[position()=1]",
+       "DPV_input": "//td[text()='DPV']/following-sibling::td[position()=1]/input",
+       "RDI": "//td[text()='RDI']/following-sibling::td[position()=1]",
+       "RDI_input": "//td[text()='RDI']/following-sibling::td[position()=1]/input",
+       "ESM": "//td[text()='ESM']/following-sibling::td[position()=1]",
+       "ESM_input": "//td[text()='ESM']/following-sibling::td[position()=1]/input"
+       
+  },
+  
+  "dataDeduplication_1": {
+      "AccountDeduplication": "//td[text()='Account Deduplication']/following-sibling::td[position()=1]",
+      "AccountDeduplication_input": "//td[text()='Account Deduplication']/following-sibling::td[position()=1]/input",
+      "ProspectDeduplication": "//td[text()='Prospect Deduplication']/following-sibling::td[position()=1]",
+      "ProspectDeduplication_input": "//td[text()='Prospect Deduplication']/following-sibling::td[position()=1]/input",
+      "ContactDeduplication": "//td[text()='Contact Deduplication']/following-sibling::td[position()=1]",
+      "ContactDeduplication_input": "//td[text()='Contact Deduplication']/following-sibling::td[position()=1]/input",
+      "DeduplicationPopupApplet": "//td[text()='Deduplication Popup Applet']/following-sibling::td[position()=1]",
+      "DeduplicationPopupApplet_input": "//td[text()='Deduplication Popup Applet']/following-sibling::td[position()=1]/input"
+      
+  },
+  
+  "generalBehavior_1": {
+      "ErrorPopupApplet": "//td[text()='Error Popup Applet']/following-sibling::td[position()=1]",
+      "ErrorPopupApplet_input": "//td[text()='Error Popup Applet']/following-sibling::td[position()=1]/input",
+      "ServerName": "//td[text()='Server Name']/following-sibling::td[position()=1]",
+      "ServerName_input": "//td[text()='Server Name']/following-sibling::td[position()=1]/input",
+      "PortNumber": "//td[text()='Port Number']/following-sibling::td[position()=1]",
+      "PortNumber_input": "//td[text()='Port Number']/following-sibling::td[position()=1]/input"
+  },
+  
+  "geoCoding_1": {
+      "BusinessandPersonalAddressGeoCoding": "//td[text()='Business and Personal Address GeoCoding']/following-sibling::td[position()=1]",
+      "BusinessandPersonalAddressGeoCoding_input": "//td[text()='Business and Personal Address GeoCoding']/following-sibling::td[position()=1]/input",
+      "ProspectAddressGeoCoding": "//td[text()='Prospect Address GeoCoding']/following-sibling::td[position()=1]",
+      "ProspectAddressGeoCoding_input": "//td[text()='Prospect Address GeoCoding']/following-sibling::td[position()=1]/input",
+      "AdminAddressGeoCoding": "//td[text()='Admin Address GeoCoding']/following-sibling::td[position()=1]",
+      "AdminAddressGeoCoding_input": "//td[text()='Admin Address GeoCoding']/following-sibling::td[position()=1]/input"
+  },
+  
+  "nameCasing_1": {
+      "AccountNameCasing": "//td[text()='Account Name Casing']/following-sibling::td[position()=1]",
+      "AccountNameCasing_input": "//td[text()='Account Name Casing']/following-sibling::td[position()=1]/input",
+      "ContactNameCasing": "//td[text()='Contact Name Casing']/following-sibling::td[position()=1]",
+      "ContactNameCasing_input": "//td[text()='Contact Name Casing']/following-sibling::td[position()=1]/input",
+      "ProspectNameCasing": "//td[text()='Prospect Name Casing']/following-sibling::td[position()=1]",
+      "ProspectNameCasing_input": "//td[text()='Prospect Name Casing']/following-sibling::td[position()=1]/input"
+  },
+  
+  "logging_1": {
+      "ClientLogFile": "//td[text()='Client Log File']/following-sibling::td[position()=1]",
+      "ClientLogFile_input": "//td[text()='Client Log File']/following-sibling::td[position()=1]/input",
+      "ServerLogFile": "//td[text()='Server Log File']/following-sibling::td[position()=1]",
+      "ServerLogFile_input": "//td[text()='Server Log File']/following-sibling::td[position()=1]/input",
+      "Logging": "//td[text()='Logging']/following-sibling::td[position()=1]",
+      "Logging_input": "//td[text()='Logging']/following-sibling::td[position()=1]/input",
+      "CleansingLoggingLevel": "//td[text()='Cleansing Logging Level']/following-sibling::td[position()=1]",
+      "CleansingLoggingLevel_input": "//td[text()='Cleansing Logging Level']/following-sibling::td[position()=1]/input",
+      "DeduplicationLoggingLevel": "//td[text()='Deduplication Logging Level']/following-sibling::td[position()=1]",
+      "DeduplicationLoggingLevel_input": "//td[text()='Deduplication Logging Level']/following-sibling::td[position()=1]/input",
+      "MergeLoggingLevel": "//td[text()='Merge Logging Level']/following-sibling::td[position()=1]",
+      "MergeLoggingLevel_input": "//td[text()='Merge Logging Level']/following-sibling::td[position()=1]/input"
+  	}  
+     
+}

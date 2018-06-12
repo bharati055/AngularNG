@@ -1,0 +1,65 @@
+{
+  "accData": {
+    "accountName": "Auto_User",
+    "password": "Spod@123",
+    "userType": "Admin",
+    "fName": "spodAutomation",
+    "lName": "QA",
+    "email": "",
+    "description": "This is the description.",
+    "companyName": "Pitney Bowes",
+    "custom_companyName": "pitney",
+    "contactName": "Julie Jordan",
+    "custom_contactName": "adfghij"
+  },
+  "accData_admin_updated": {
+    "userType": "Admin",
+    "fName": "spodAutomation_Updated",
+    "lName": "QA_Updated",
+    "description": "This is the Updated description.",
+    "companyName": "pi2",
+    "custom_companyName": "pitney",
+    "contactName": "Rodney Lew",
+    "custom_contactName": "adfghij"
+  },
+  "accData_eu": {
+    "accountName": "Auto_EndUser",
+    "password": "Spod@123",
+    "userType": "End User",
+    "fName": "spodAutomation",
+    "lName": "QA EndUser",
+    "email": "",
+    "companyName": "Pitney Bowes",
+    "contactName": "Julie Jordan"
+  },
+  "companyInfo_eu": {
+    "companyName": "SpectrumOnDemand 2.0",
+    "companyURL": "www.spodV2.com",
+    "companyAlias": "Spod",
+    "companyParentName": "SPODV2.0"
+  },
+  "companyInfo_admin": {
+    "companyName": "Pitney Bowes",
+    "companyURL": "www.pitneybowes.com",
+    "companyAlias": "pb ",
+    "companyParentName": "pb"
+  },
+  "companyInfo2_admin": {
+    "companyName": "pi2",
+    "companyURL": "google.com",
+    "companyAlias": "pi2",
+    "companyParentName": "PI"
+  },
+  "contactInfo_admin": {
+    "contactTitle":"Mr",
+    "contactName": "Nitin Test1",
+    "contactEmail": "NitinTest1",
+    "contactPhoneNumber": "7685675646",
+    "contactAddLine1": "50 water st",
+    "contactCity": "Lee",
+    "contactState": "MA",
+    "contactZipCode": "01238"
+  }
+
+  
+}

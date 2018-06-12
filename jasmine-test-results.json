@@ -1,0 +1,344 @@
+{
+    "suite1": {
+        "id": "suite1",
+        "description": "Validate Admin Account Creation-",
+        "fullName": "Validate Admin Account Creation-",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec0",
+                "description": "Launch Application.",
+                "fullName": "Validate Admin Account Creation- Launch Application.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec1",
+                "description": "Login to the application.",
+                "fullName": "Validate Admin Account Creation- Login to the application.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec2",
+                "description": "It should navigate to Accounts tab.",
+                "fullName": "Validate Admin Account Creation- It should navigate to Accounts tab.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec3",
+                "description": "It should fill User and Account Information Form.",
+                "fullName": "Validate Admin Account Creation- It should fill User and Account Information Form.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec4",
+                "description": "It should fill Company Info Form.",
+                "fullName": "Validate Admin Account Creation- It should fill Company Info Form.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec5",
+                "description": "It should fill Contact Information Form.",
+                "fullName": "Validate Admin Account Creation- It should fill Contact Information Form.",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toBeTruthy",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec6",
+                "description": "It should save the Form.",
+                "fullName": "Validate Admin Account Creation- It should save the Form.",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toBeTruthy",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec7",
+                "description": "DB entry for the account should be created",
+                "fullName": "Validate Admin Account Creation- DB entry for the account should be created",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toContain",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec8",
+                "description": "Logging Out and logging in with the Admin user which we just created",
+                "fullName": "Validate Admin Account Creation- Logging Out and logging in with the Admin user which we just created",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            }
+        ]
+    },
+    "suite2": {
+        "id": "suite2",
+        "description": "Validate End User Account Creation-",
+        "fullName": "Validate End User Account Creation-",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec9",
+                "description": "Launch Application.",
+                "fullName": "Validate End User Account Creation- Launch Application.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec10",
+                "description": "Login to the application.",
+                "fullName": "Validate End User Account Creation- Login to the application.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec11",
+                "description": "It should navigate to Accounts tab.",
+                "fullName": "Validate End User Account Creation- It should navigate to Accounts tab.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec12",
+                "description": "It should fill User and Account Information Form.",
+                "fullName": "Validate End User Account Creation- It should fill User and Account Information Form.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec13",
+                "description": "It should fill Company Info Form.",
+                "fullName": "Validate End User Account Creation- It should fill Company Info Form.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec14",
+                "description": "It should fill Contact Information Form.",
+                "fullName": "Validate End User Account Creation- It should fill Contact Information Form.",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toBeTruthy",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec15",
+                "description": "It should save the Form.",
+                "fullName": "Validate End User Account Creation- It should save the Form.",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toBeTruthy",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec16",
+                "description": "DB entry for the account should be created",
+                "fullName": "Validate End User Account Creation- DB entry for the account should be created",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toContain",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec17",
+                "description": "Logging Out and logging in with the End user which we just created",
+                "fullName": "Validate End User Account Creation- Logging Out and logging in with the End user which we just created",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            }
+        ]
+    },
+    "suite3": {
+        "id": "suite3",
+        "description": "Validate Internal User Account Creation-",
+        "fullName": "Validate Internal User Account Creation-",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec18",
+                "description": "Launch Application.",
+                "fullName": "Validate Internal User Account Creation- Launch Application.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec19",
+                "description": "Login to the application.",
+                "fullName": "Validate Internal User Account Creation- Login to the application.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec20",
+                "description": "It should navigate to Accounts tab.",
+                "fullName": "Validate Internal User Account Creation- It should navigate to Accounts tab.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec21",
+                "description": "It should fill User and Account Information Form.",
+                "fullName": "Validate Internal User Account Creation- It should fill User and Account Information Form.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec22",
+                "description": "It should fill Company Info Form.",
+                "fullName": "Validate Internal User Account Creation- It should fill Company Info Form.",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec23",
+                "description": "It should fill Contact Information Form.",
+                "fullName": "Validate Internal User Account Creation- It should fill Contact Information Form.",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toBeTruthy",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec24",
+                "description": "It should save the Form.",
+                "fullName": "Validate Internal User Account Creation- It should save the Form.",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toBeTruthy",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec25",
+                "description": "DB entry for the account should be created",
+                "fullName": "Validate Internal User Account Creation- DB entry for the account should be created",
+                "failedExpectations": [],
+                "passedExpectations": [
+                    {
+                        "matcherName": "toContain",
+                        "message": "Passed.",
+                        "stack": "",
+                        "passed": true
+                    }
+                ],
+                "pendingReason": "",
+                "status": "passed"
+            },
+            {
+                "id": "spec26",
+                "description": "Logging Out and logging in with the End user which we just created",
+                "fullName": "Validate Internal User Account Creation- Logging Out and logging in with the End user which we just created",
+                "failedExpectations": [
+                    {
+                        "matcherName": "",
+                        "message": "Failed: No element found using locator: By(css selector, *[name=\"username\"])",
+                        "stack": "NoSuchElementError: No element found using locator: By(css selector, *[name=\"username\"])\n    at WebDriverError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:27:5)\n    at NoSuchElementError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:168:5)\n    at elementArrayFinder.getWebElements.then (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:851:17)\n    at ManagedPromise.invokeCallback_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1366:14)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:482:23)\n    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:96:21)\n    at ElementFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:873:14)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:100:35)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2860:25)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom: Task: Run it(\"Logging Out and logging in with the End user which we just created\") in control flow\n    at Object.<anonymous> (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attemptAsync (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3945:24)\n    at QueueRunner.run (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3884:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3924:18\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3848:9\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2565:10)\n    at shutdownTask_.MicroTask (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2490:53)\n    at MicroTask.asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2619:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:94:2)\n    at addSpecsToSuite (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:994:25)\n    at Env.describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:961:7)\n    at describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4031:18)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:9:1)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (C:\\Users\\cdqp\\node_modules\\coffee-script\\lib\\coffee-script\\register.js:45:36)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n    at Array.forEach (native)\n    at Jasmine.loadSpecs (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:92:18)\n    at Jasmine.execute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:197:8)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:132:15\n    at Function.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:682:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:104:14\n    at _fulfilled (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:834:54)\n    at self.promiseDispatch.done (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:863:30)\n    at Promise.promise.promiseDispatch (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:796:13)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:556:49\n    at runSingle (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:125:13)\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickCallback (internal/process/next_tick.js:98:9)",
+                        "passed": false,
+                        "expected": "",
+                        "actual": ""
+                    }
+                ],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "failed"
+            }
+        ]
+    }
+}

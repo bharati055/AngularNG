@@ -1,0 +1,47 @@
+{
+  "devPortal_url":"https://login-stg.saase2e.pitneycloud.com/developerhub",
+  "sam_url":"http://neptune-dev12:8080/SAM/login.html",
+  "sam_loginID":"dpham",
+  "sam_password":"Manish",
+  "accountCreation_url":"http://scp-dev.us-west-2.elasticbeanstalk.com/#/account-mgr",
+  "scpdb":{
+      "host": "scp.c9z7tezfbzrp.ap-south-1.rds.amazonaws.com",
+      "user": "scp",
+      "port": "8080",
+      "password": "Pitney1234",
+      "database": "scpdbTest",
+      "dev_database": "scpdb"
+  },  
+  "spodApp":{
+            "qa_admin":{
+                "url":"http://scp-iad-qa-scp.tccgffb5hd.us-east-1.elasticbeanstalk.com/admin/login",
+                "loginID":"qa.admin",
+                "password":"Spod@123"
+            },
+            "qa_eu":{
+                "url":"http://scp-iad-qa-scp.tccgffb5hd.us-east-1.elasticbeanstalk.com",
+                "loginID":"qa.enduser@pb.com",
+                "password":"Spod@123"
+            },
+            "qa_internalUser":{
+                "url":"http://scp-iad-qa-scp.tccgffb5hd.us-east-1.elasticbeanstalk.com",
+                "loginID":"qa.internal@pb.com",
+                "password":"Spod@123"
+            },
+            "dev_admin":{
+                "url":"http://scp-iad-dev-scp.tccgffb5hd.us-east-1.elasticbeanstalk.com/admin/login",
+                "loginID":"qa.admin",
+                "password":"Spod@123"
+            },
+            "dev_eu":{
+                "url":"http://scp-iad-dev-scp.tccgffb5hd.us-east-1.elasticbeanstalk.com",
+                "loginID":"qa.admin",
+                "password":"Spod@123"
+            }
+  },
+  "managementConsole":{
+      "jmxURL":"http://52.40.244.19:8080/jmx-console/HttpAdaptor/list",
+      "loginID":"admin",
+      "password":"kanupriya"
+  }
+}

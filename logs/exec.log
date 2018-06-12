@@ -1,0 +1,1190 @@
+[2017-06-22 14:13:27.916] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-22 14:14:13.766] [INFO] Log - The AccName is:Auto_User06222017141413
+[2017-06-22 14:14:13.767] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-22 14:14:37.169] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-22 14:14:41.253] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-22 14:14:58.946] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06222017141413'
+[2017-06-22 14:14:58.948] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-22 14:14:59.003] [INFO] Log - Inside query func
+[2017-06-22 14:14:59.003] [INFO] Log - DB output result - Auto_User06222017141413@pb.com
+[2017-06-22 14:15:04.252] [INFO] Log - Successfully Logged in to Admin portal with the new Admin user
+[2017-06-22 14:18:37.391] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-22 14:19:23.282] [INFO] Log - The AccName is:Auto_User06222017141923
+[2017-06-22 14:19:23.283] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-22 14:19:46.458] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-22 14:19:50.516] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-22 14:20:08.197] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06222017141923'
+[2017-06-22 14:20:08.199] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-22 14:20:08.255] [INFO] Log - Inside query func
+[2017-06-22 14:20:08.255] [INFO] Log - DB output result - Auto_User06222017141923@pb.com
+[2017-06-22 14:20:13.512] [INFO] Log - Successfully Logged in to Admin portal with the new Admin user
+[2017-06-22 14:22:55.982] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-22 14:23:41.840] [INFO] Log - The AccName is:Auto_User06222017142341
+[2017-06-22 14:23:41.841] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-22 14:24:05.038] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-22 14:24:09.107] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-22 14:24:26.811] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06222017142341'
+[2017-06-22 14:24:26.812] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-22 14:24:26.866] [INFO] Log - Inside query func
+[2017-06-22 14:24:26.866] [INFO] Log - DB output result - Auto_User06222017142341@pb.com
+[2017-06-22 14:24:32.137] [INFO] Log - Successfully Logged in to Admin portal with the new Admin user
+[2017-06-22 15:13:15.516] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-22 15:14:01.283] [INFO] Log - The AccName is:Auto_User06222017151401
+[2017-06-22 15:14:01.283] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-22 15:14:24.327] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-22 15:14:28.387] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-22 15:14:46.089] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06222017151401'
+[2017-06-22 15:14:46.092] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-22 15:14:46.133] [INFO] Log - Inside query func
+[2017-06-22 15:14:46.133] [INFO] Log - DB output result - Auto_User06222017151401@pb.com
+[2017-06-22 15:14:51.414] [INFO] Log - Successfully Logged in to Admin portal with the new Admin user
+[2017-06-22 15:29:50.792] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-22 15:30:36.526] [INFO] Log - The AccName is:Auto_User06222017153036
+[2017-06-22 15:30:36.527] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-22 15:30:59.656] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-22 15:31:03.690] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-22 15:31:21.445] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06222017153036'
+[2017-06-22 15:31:21.448] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-22 15:31:21.494] [INFO] Log - Inside query func
+[2017-06-22 15:31:21.494] [INFO] Log - DB output result - Auto_User06222017153036@pb.com
+[2017-06-22 15:31:26.786] [INFO] Log - Successfully Logged in to Admin portal with the new Admin user
+[2017-06-22 16:03:06.179] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-22 16:03:51.950] [INFO] Log - The AccName is:Auto_User06222017160351
+[2017-06-22 16:03:51.951] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-22 16:04:15.037] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-22 16:04:19.052] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-22 16:04:36.685] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06222017160351'
+[2017-06-22 16:04:36.687] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-22 16:04:36.944] [INFO] Log - Inside query func
+[2017-06-22 16:04:36.944] [INFO] Log - DB output result - Auto_User06222017160351@pb.com
+[2017-06-22 16:04:42.022] [INFO] Log - Successfully Logged in to Admin portal with the new Admin user
+[2017-06-27 14:48:55.710] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 14:48:55.790] [INFO] Log - Inside query func
+[2017-06-27 14:48:55.793] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 14:50:11.064] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 14:50:11.139] [INFO] Log - Inside query func
+[2017-06-27 14:50:11.141] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 14:52:17.849] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 14:52:17.916] [INFO] Log - Inside query func
+[2017-06-27 14:52:17.918] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 14:53:02.374] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 14:53:02.452] [INFO] Log - Inside query func
+[2017-06-27 14:53:02.452] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 14:55:11.378] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 14:55:11.395] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 14:55:11.395] [INFO] Log - Inside query func
+[2017-06-27 14:55:11.395] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:21:22.783] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:21:22.794] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:21:22.806] [INFO] Log - Inside query func
+[2017-06-27 16:21:22.824] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:23:42.081] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:23:42.121] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:23:42.193] [INFO] Log - Inside query func
+[2017-06-27 16:23:42.215] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:23:42.519] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 16:27:12.058] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:27:12.064] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:27:12.085] [INFO] Log - Inside query func
+[2017-06-27 16:27:12.090] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:27:12.696] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 16:28:01.822] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:28:01.829] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:28:01.850] [INFO] Log - Inside query func
+[2017-06-27 16:28:01.851] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:28:02.241] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 16:29:35.967] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:29:36.003] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:29:36.040] [INFO] Log - Inside query func
+[2017-06-27 16:29:36.045] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:29:36.296] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 16:32:39.983] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:32:39.990] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:32:40.030] [INFO] Log - Inside query func
+[2017-06-27 16:32:40.036] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:32:40.284] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 16:35:36.537] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:35:36.547] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:35:36.583] [INFO] Log - Inside query func
+[2017-06-27 16:35:36.588] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:35:36.864] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 16:35:36.884] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:35:36.885] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:35:36.889] [INFO] Log - Inside query func
+[2017-06-27 16:35:36.891] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:35:37.437] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 16:59:43.890] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:59:43.890] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:59:43.940] [INFO] Log - Inside query func
+[2017-06-27 16:59:43.946] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:59:44.192] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 16:59:44.411] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 16:59:44.414] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 16:59:44.423] [INFO] Log - Inside query func
+[2017-06-27 16:59:44.424] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 16:59:44.780] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:27:05.235] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:27:05.241] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 19:27:05.301] [INFO] Log - Inside query func
+[2017-06-27 19:27:05.304] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:27:05.548] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:27:05.875] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:27:05.878] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 19:27:05.886] [INFO] Log - Inside query func
+[2017-06-27 19:27:05.888] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:27:06.469] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:29:01.017] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:29:01.033] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 19:29:01.068] [INFO] Log - Inside query func
+[2017-06-27 19:29:01.068] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:29:01.336] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:29:01.569] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:29:01.572] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 19:29:01.580] [INFO] Log - Inside query func
+[2017-06-27 19:29:01.581] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:29:01.801] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:33:52.297] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:33:52.306] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 19:33:52.347] [INFO] Log - Inside query func
+[2017-06-27 19:33:52.350] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:33:52.592] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:33:52.811] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:33:52.813] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 19:33:52.824] [INFO] Log - Inside query func
+[2017-06-27 19:33:52.827] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:33:53.139] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:35:26.194] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:35:26.202] [INFO] Log - DB query - IT BLOCK.
+[2017-06-27 19:35:26.240] [INFO] Log - Inside query func
+[2017-06-27 19:35:26.242] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:35:26.511] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:35:26.762] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:35:26.762] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 19:35:26.762] [INFO] Log - Inside query func
+[2017-06-27 19:35:26.762] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:35:27.134] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:36:02.748] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:36:02.753] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 19:36:02.793] [INFO] Log - Inside query func
+[2017-06-27 19:36:02.794] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:36:03.143] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 19:36:03.425] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 19:36:03.428] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 19:36:03.439] [INFO] Log - Inside query func
+[2017-06-27 19:36:03.440] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 19:36:03.695] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:27:00.300] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:27:00.307] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 22:27:00.350] [INFO] Log - Inside query func
+[2017-06-27 22:27:00.351] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:27:00.718] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:27:01.525] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:27:01.527] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 22:27:01.535] [INFO] Log - Inside query func
+[2017-06-27 22:27:01.536] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:27:01.719] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:29:01.600] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:29:01.611] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 22:29:01.663] [INFO] Log - Inside query func
+[2017-06-27 22:29:01.668] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:29:01.976] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:29:02.196] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:29:02.203] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 22:29:02.225] [INFO] Log - Inside query func
+[2017-06-27 22:29:02.228] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:29:02.575] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:30:18.665] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:30:18.671] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 22:30:18.715] [INFO] Log - Inside query func
+[2017-06-27 22:30:18.720] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:30:18.973] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:30:19.228] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:30:19.230] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 22:30:19.238] [INFO] Log - Inside query func
+[2017-06-27 22:30:19.239] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:30:19.581] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:47:44.191] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:47:44.199] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 22:47:44.214] [INFO] Log - Inside query func
+[2017-06-27 22:47:44.216] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:47:44.684] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:47:44.932] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:47:44.934] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 22:47:44.943] [INFO] Log - Inside query func
+[2017-06-27 22:47:44.946] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:47:45.230] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:50:34.771] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:50:34.779] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 22:50:34.804] [INFO] Log - Inside query func
+[2017-06-27 22:50:34.806] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:50:34.968] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:50:35.085] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:50:35.087] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 22:50:35.097] [INFO] Log - Inside query func
+[2017-06-27 22:50:35.098] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:50:35.200] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:55:28.231] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:55:28.231] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 22:55:28.272] [INFO] Log - Inside query func
+[2017-06-27 22:55:28.277] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:55:28.416] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:55:28.521] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:55:28.523] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 22:55:28.533] [INFO] Log - Inside query func
+[2017-06-27 22:55:28.533] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:55:28.645] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:57:18.620] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:57:18.626] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 22:57:18.652] [INFO] Log - Inside query func
+[2017-06-27 22:57:18.661] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:57:18.864] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 22:57:18.972] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 22:57:18.974] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 22:57:18.981] [INFO] Log - Inside query func
+[2017-06-27 22:57:18.982] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 22:57:19.103] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 23:03:48.290] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 23:03:48.296] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 23:03:48.325] [INFO] Log - Inside query func
+[2017-06-27 23:03:48.329] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 23:03:48.507] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 23:03:48.625] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 23:03:48.627] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 23:03:48.636] [INFO] Log - Inside query func
+[2017-06-27 23:03:48.637] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 23:03:48.776] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 23:05:11.414] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 23:05:11.423] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 23:05:11.451] [INFO] Log - Inside query func
+[2017-06-27 23:05:11.456] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 23:05:11.636] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 23:05:11.817] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 23:05:11.820] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 23:05:11.831] [INFO] Log - Inside query func
+[2017-06-27 23:05:11.839] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 23:05:11.989] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 23:49:42.429] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 23:49:42.445] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-27 23:49:42.445] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 23:49:42.470] [INFO] Log - Inside query func
+[2017-06-27 23:49:42.475] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-27 23:49:42.480] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-27 23:49:42.482] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass','NA', 'NA')
+[2017-06-27 23:49:42.487] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-27 23:49:42.487] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-27 23:49:42.505] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-27 23:49:42.514] [INFO] Log - Inside query func
+[2017-06-27 23:49:42.515] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 00:00:31.870] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 00:00:31.878] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-28 00:00:31.886] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 00:00:31.900] [INFO] Log - Inside query func
+[2017-06-28 00:00:31.901] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 00:00:31.907] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 00:00:31.910] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '1498588231909', 'NA', 'NA')
+[2017-06-28 00:00:31.917] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 00:00:31.918] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-28 00:00:31.923] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 00:00:31.944] [INFO] Log - Inside query func
+[2017-06-28 00:00:31.948] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 00:02:01.390] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 00:02:01.398] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-28 00:02:01.405] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 00:02:01.422] [INFO] Log - Inside query func
+[2017-06-28 00:02:01.424] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 00:02:01.432] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 00:02:01.438] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 00:02:01.443] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 00:02:01.444] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-28 00:02:01.447] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 00:02:01.653] [INFO] Log - Inside query func
+[2017-06-28 00:02:01.658] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 00:06:41.911] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 00:06:41.926] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-28 00:06:41.926] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 00:06:41.952] [INFO] Log - Inside query func
+[2017-06-28 00:06:41.953] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 00:06:41.953] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 00:06:41.953] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 00:06:41.976] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 00:06:41.978] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-28 00:06:41.983] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 00:06:42.333] [INFO] Log - Inside query func
+[2017-06-28 00:06:42.333] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 00:11:03.318] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 00:11:03.334] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-28 00:11:03.342] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 00:11:03.359] [INFO] Log - Inside query func
+[2017-06-28 00:11:03.363] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 00:11:03.369] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 00:11:03.376] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 00:11:03.386] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 00:11:03.387] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-28 00:11:03.394] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 00:11:03.402] [INFO] Log - Inside query func
+[2017-06-28 00:11:03.403] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 08:16:41.082] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 08:16:41.100] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-28 08:16:41.108] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 08:16:41.121] [INFO] Log - Inside query func
+[2017-06-28 08:16:41.126] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 08:16:41.134] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 08:16:41.135] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-28 08:16:41.140] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 08:16:41.142] [INFO] Log - Inside query func
+[2017-06-28 08:16:41.143] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 08:19:46.230] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 08:19:46.236] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-28 08:19:46.257] [INFO] Log - Inside query func
+[2017-06-28 08:19:46.264] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 08:19:46.500] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 08:19:46.512] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 08:19:46.515] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-28 08:19:46.519] [INFO] Log - Inside query func
+[2017-06-28 08:19:46.522] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 08:19:46.840] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 08:20:06.884] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 08:20:06.889] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 08:23:45.070] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 08:23:45.077] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-28 08:23:45.100] [INFO] Log - Inside query func
+[2017-06-28 08:23:45.101] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 08:23:45.343] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 08:23:45.360] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 08:23:45.363] [INFO] Log - TC_02 | DB query - IT BLOCK.
+[2017-06-28 08:23:45.368] [INFO] Log - Inside query func
+[2017-06-28 08:23:45.369] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_html: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 08:23:45.881] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 08:24:05.916] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 08:24:05.933] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 08:32:43.653] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 08:32:43.653] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 10:07:19.707] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 10:13:01.364] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 10:13:40.135] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 10:19:13.211] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 10:20:01.014] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 10:20:01.014] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 10:20:50.464] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 10:20:50.464] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 10:23:28.468] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 10:23:28.484] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'test case - insert from protractor', 'pass', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 10:28:39.209] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 10:28:39.209] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', 'Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 10:28:39.224] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_html`, `screenshot`) VALUES ('15', 'qa', '3', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 12:53:04.528] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 12:53:04.528] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', '0', '0', 'smoke', 'Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 12:53:04.528] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', '0', '0', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:26:36.539] [INFO] Log - SELECT * from automationdb.result where id ='1'
+[2017-06-28 13:26:36.545] [INFO] Log - TC_01 | DB query - IT BLOCK.
+[2017-06-28 13:26:36.565] [INFO] Log - Inside query func
+[2017-06-28 13:26:36.569] [INFO] Log - RowDataPacket {
+  id: 1,
+  proj_id: 15,
+  env: 'qa',
+  build_no: '3',
+  test_type: 'smoke',
+  test_name: 'validate login',
+  test_result: 'pass',
+  time_stamp: 2017-06-26T18:30:00.000Z,
+  result_detail: '<h1>Validate login test result</h1>',
+  screenshot: 'NA' }
+[2017-06-28 13:26:36.787] [INFO] Log - Post DB query - IT BLOCK.
+[2017-06-28 13:27:02.609] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:27:02.615] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', '0', '0', 'smoke', 'Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:27:02.617] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', '0', '0', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:29:20.226] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:29:20.230] [INFO] Log - test env-------0
+[2017-06-28 13:29:20.231] [INFO] Log - test build-------0
+[2017-06-28 13:29:20.233] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', '0', '0', 'smoke', 'Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:29:20.237] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', '0', '0', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:30:30.827] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:30:30.832] [INFO] Log - test env-------QA
+[2017-06-28 13:30:30.832] [INFO] Log - test build-------Build#003
+[2017-06-28 13:30:30.835] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'Build#003', 'smoke', 'Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:30:30.839] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'Build#003', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:35:32.633] [INFO] Log - date time stamp - 17171717-0606-2828 1313:3535:3232
+[2017-06-28 13:35:32.636] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:35:32.638] [INFO] Log - test env-------QA
+[2017-06-28 13:35:32.639] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:35:32.644] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:35:32.647] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:36:33.200] [INFO] Log - date time stamp - 17-06-28 13:36:33
+[2017-06-28 13:36:33.203] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:36:33.205] [INFO] Log - test env-------QA
+[2017-06-28 13:36:33.206] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:36:33.210] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:36:33.214] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:37:36.101] [INFO] Log - date time stamp - 2017-06-28 13:37:36
+[2017-06-28 13:37:36.106] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:37:36.109] [INFO] Log - test env-------QA
+[2017-06-28 13:37:36.110] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:37:36.115] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:37:36.118] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'passed', '2017-06-28 00:00:00', 'NA', 'NA')
+[2017-06-28 13:43:28.169] [INFO] Log - date time stamp - 2017-06-28 13:43:28
+[2017-06-28 13:43:28.174] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:43:28.175] [INFO] Log - test env-------QA
+[2017-06-28 13:43:28.176] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:43:28.180] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'pass', '2017-06-28 13:43:28', 'NA', 'NA')
+[2017-06-28 13:43:28.184] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'fail', '2017-06-28 13:43:28', 'NA', 'NA')
+[2017-06-28 13:48:25.156] [INFO] Log - date time stamp - 2017-06-28 13:48:25
+[2017-06-28 13:48:25.163] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:48:25.165] [INFO] Log - test env-------QA
+[2017-06-28 13:48:25.167] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:48:25.171] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'Pass', '2017-06-28 13:48:25', 'NA', 'NA')
+[2017-06-28 13:48:25.174] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'Fail', '2017-06-28 13:48:25', 'NA[object Object]', 'NA')
+[2017-06-28 13:50:20.238] [INFO] Log - date time stamp - 2017-06-28 13:50:20
+[2017-06-28 13:50:20.243] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:50:20.244] [INFO] Log - test env-------QA
+[2017-06-28 13:51:04.169] [INFO] Log - date time stamp - 2017-06-28 13:51:04
+[2017-06-28 13:51:04.174] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:51:04.176] [INFO] Log - test env-------QA
+[2017-06-28 13:51:04.177] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:51:04.182] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'Pass', '2017-06-28 13:51:04', '', 'NA')
+[2017-06-28 13:51:04.188] [INFO] Log - Failure reason - {"matcherName":"toBeTruthy","message":"Expected false to be truthy.","stack":"Error: Failed expectation\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TS_Dummy_AutomationDB_Test_2.js:17:17)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)","passed":false,"expected":[],"actual":false}
+[2017-06-28 13:51:04.192] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'Fail', '2017-06-28 13:51:04', '{"matcherName":"toBeTruthy","message":"Expected false to be truthy.","stack":"Error: Failed expectation\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TS_Dummy_AutomationDB_Test_2.js:17:17)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)","passed":false,"expected":[],"actual":false}', 'NA')
+[2017-06-28 13:53:12.312] [INFO] Log - date time stamp - 2017-06-28 13:53:12
+[2017-06-28 13:53:12.317] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:53:12.318] [INFO] Log - test env-------QA
+[2017-06-28 13:53:12.319] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:53:12.323] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'Pass', '2017-06-28 13:53:12', '', 'NA')
+[2017-06-28 13:53:12.327] [INFO] Log - Failure reason - [object Object]
+[2017-06-28 13:53:12.328] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'Fail', '2017-06-28 13:53:12', '[object Object]', 'NA')
+[2017-06-28 13:56:42.668] [INFO] Log - date time stamp - 2017-06-28 13:56:42
+[2017-06-28 13:56:42.672] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:56:42.673] [INFO] Log - test env-------QA
+[2017-06-28 13:56:42.674] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:56:42.677] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'Pass', '2017-06-28 13:56:42', '', 'NA')
+[2017-06-28 13:57:11.008] [INFO] Log - date time stamp - 2017-06-28 13:57:11
+[2017-06-28 13:57:11.012] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 13:57:11.013] [INFO] Log - test env-------QA
+[2017-06-28 13:57:11.014] [INFO] Log - test build-------QA_Build
+[2017-06-28 13:57:11.017] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'Pass', '2017-06-28 13:57:11', '', 'NA')
+[2017-06-28 22:59:36.249] [INFO] Log - date time stamp - 2017-06-28 22:59:36
+[2017-06-28 22:59:36.254] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 22:59:36.255] [INFO] Log - test env-------QA
+[2017-06-28 22:59:36.255] [INFO] Log - test build-------QA_Build
+[2017-06-28 22:59:36.262] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Dummy describe - AutomationDB test', 'Pass', '2017-06-28 22:59:36', '', 'NA')
+[2017-06-28 22:59:36.265] [INFO] Log - Failure reason - {"matcherName":"toBeTruthy","message":"Expected false to be truthy.","stack":"Error: Failed expectation\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TS_Dummy_AutomationDB_Test_2.js:17:17)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)","passed":false,"expected":[],"actual":false}
+[2017-06-28 22:59:36.266] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', '2222 -- Dummy describe - AutomationDB test', 'Fail', '2017-06-28 22:59:36', '{"matcherName":"toBeTruthy","message":"Expected false to be truthy.","stack":"Error: Failed expectation\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TS_Dummy_AutomationDB_Test_2.js:17:17)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)","passed":false,"expected":[],"actual":false}', 'NA')
+[2017-06-28 23:15:41.508] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-28 23:16:27.584] [INFO] Log - The AccName is:Auto_User06282017231627
+[2017-06-28 23:16:27.585] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-28 23:16:51.204] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-28 23:16:55.447] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-28 23:17:13.226] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06282017231627'
+[2017-06-28 23:17:13.229] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-28 23:17:13.270] [INFO] Log - Inside query func
+[2017-06-28 23:17:13.271] [INFO] Log - DB output result - Auto_User06282017231627@pb.com
+[2017-06-28 23:17:18.569] [INFO] Log - Successfully Logged in to Admin portal with the new Admin user
+[2017-06-28 23:18:43.610] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-28 23:19:29.526] [INFO] Log - New Acc name is:Auto_User
+[2017-06-28 23:19:29.531] [INFO] Log - The AccName is:Auto_User06282017231929
+[2017-06-28 23:19:29.532] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-28 23:19:53.416] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-28 23:19:57.639] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-28 23:20:27.186] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06282017231929'
+[2017-06-28 23:20:27.191] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-28 23:20:27.243] [INFO] Log - Inside query func
+[2017-06-28 23:20:27.244] [INFO] Log - DB output result - Auto_User06282017231929@pb.com
+[2017-06-28 23:20:32.561] [INFO] Log - Successfully Logged in to End User portal with the new End user
+[2017-06-28 23:22:09.894] [INFO] Log - Login to the application - IT BLOCK.
+[2017-06-28 23:22:55.849] [INFO] Log - New Acc name is:Auto_User
+[2017-06-28 23:22:55.856] [INFO] Log - The AccName is:Auto_User06282017232255
+[2017-06-28 23:22:55.856] [INFO] Log - It should fill User Information Form. - IT BLOCK.
+[2017-06-28 23:23:19.994] [INFO] Log - It should fill Contact Information Form. - IT BLOCK.
+[2017-06-28 23:23:24.249] [INFO] Log - It should save the Form. - IT BLOCK.
+[2017-06-28 23:23:42.052] [INFO] Log - SELECT * from scpdbTest.account where name = 'Auto_User06282017232255'
+[2017-06-28 23:23:42.057] [INFO] Log - Validate created account in RDS-DB - IT BLOCK.
+[2017-06-28 23:23:42.115] [INFO] Log - Inside query func
+[2017-06-28 23:23:42.115] [INFO] Log - DB output result - Auto_User06282017232255@pb.com
+[2017-06-28 23:23:47.417] [INFO] Log - Successfully Logged in to End User portal with the new End user
+[2017-06-28 23:25:14.028] [INFO] Log - date time stamp - 2017-06-28 23:25:14
+[2017-06-28 23:25:14.029] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 23:25:14.029] [INFO] Log - test env-------QA
+[2017-06-28 23:25:14.030] [INFO] Log - test build-------Build#005
+[2017-06-28 23:25:14.035] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'Build#005', 'smoke', 'Validate Admin Account Creation-', 'Pass', '2017-06-28 23:25:14', '', 'NA')
+[2017-06-28 23:25:14.036] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'Build#005', 'smoke', 'Validate End User Account Creation-', 'Pass', '2017-06-28 23:25:14', '', 'NA')
+[2017-06-28 23:25:14.037] [INFO] Log - Failure reason - {"matcherName":"","message":"Failed: No element found using locator: By(css selector, *[name=\"username\"])","stack":"NoSuchElementError: No element found using locator: By(css selector, *[name=\"username\"])\n    at WebDriverError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:27:5)\n    at NoSuchElementError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:168:5)\n    at elementArrayFinder.getWebElements.then (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:851:17)\n    at ManagedPromise.invokeCallback_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1366:14)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:482:23)\n    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:96:21)\n    at ElementFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:873:14)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:100:35)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2860:25)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom: Task: Run it(\"Logging Out and logging in with the End user which we just created\") in control flow\n    at Object.<anonymous> (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attemptAsync (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3945:24)\n    at QueueRunner.run (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3884:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3924:18\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3848:9\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2565:10)\n    at shutdownTask_.MicroTask (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2490:53)\n    at MicroTask.asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2619:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:94:2)\n    at addSpecsToSuite (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:994:25)\n    at Env.describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:961:7)\n    at describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4031:18)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:9:1)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (C:\\Users\\cdqp\\node_modules\\coffee-script\\lib\\coffee-script\\register.js:45:36)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n    at Array.forEach (native)\n    at Jasmine.loadSpecs (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:92:18)\n    at Jasmine.execute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:197:8)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:132:15\n    at Function.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:682:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:104:14\n    at _fulfilled (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:834:54)\n    at self.promiseDispatch.done (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:863:30)\n    at Promise.promise.promiseDispatch (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:796:13)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:556:49\n    at runSingle (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:125:13)\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickCallback (internal/process/next_tick.js:98:9)","passed":false,"expected":"","actual":""}
+[2017-06-28 23:25:14.039] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'Build#005', 'smoke', 'Validate Internal User Account Creation-', 'Fail', '2017-06-28 23:25:14', '{"matcherName":"","message":"Failed: No element found using locator: By(css selector, *[name=\"username\"])","stack":"NoSuchElementError: No element found using locator: By(css selector, *[name=\"username\"])\n    at WebDriverError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:27:5)\n    at NoSuchElementError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:168:5)\n    at elementArrayFinder.getWebElements.then (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:851:17)\n    at ManagedPromise.invokeCallback_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1366:14)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:482:23)\n    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:96:21)\n    at ElementFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:873:14)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:100:35)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2860:25)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom: Task: Run it(\"Logging Out and logging in with the End user which we just created\") in control flow\n    at Object.<anonymous> (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attemptAsync (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3945:24)\n    at QueueRunner.run (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3884:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3924:18\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3848:9\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2565:10)\n    at shutdownTask_.MicroTask (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2490:53)\n    at MicroTask.asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2619:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:94:2)\n    at addSpecsToSuite (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:994:25)\n    at Env.describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:961:7)\n    at describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4031:18)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:9:1)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (C:\\Users\\cdqp\\node_modules\\coffee-script\\lib\\coffee-script\\register.js:45:36)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n    at Array.forEach (native)\n    at Jasmine.loadSpecs (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:92:18)\n    at Jasmine.execute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:197:8)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:132:15\n    at Function.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:682:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:104:14\n    at _fulfilled (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:834:54)\n    at self.promiseDispatch.done (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:863:30)\n    at Promise.promise.promiseDispatch (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:796:13)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:556:49\n    at runSingle (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:125:13)\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickCallback (internal/process/next_tick.js:98:9)","passed":false,"expected":"","actual":""}', 'NA')
+[2017-06-28 23:47:20.661] [INFO] Log - date time stamp - 2017-06-28 23:47:20
+[2017-06-28 23:47:20.665] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 23:47:20.665] [INFO] Log - test env-------QA
+[2017-06-28 23:47:20.666] [INFO] Log - test build-------QA_Build
+[2017-06-28 23:47:20.668] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Validate Admin Account Creation-', 'Pass', '2017-06-28 23:47:20', '', 'NA')
+[2017-06-28 23:47:20.671] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Validate End User Account Creation-', 'Pass', '2017-06-28 23:47:20', '', 'NA')
+[2017-06-28 23:47:20.673] [INFO] Log - Failure reason - {"matcherName":"","message":"Failed: No element found using locator: By(css selector, *[name=\"username\"])","stack":"NoSuchElementError: No element found using locator: By(css selector, *[name=\"username\"])\n    at WebDriverError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:27:5)\n    at NoSuchElementError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:168:5)\n    at elementArrayFinder.getWebElements.then (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:851:17)\n    at ManagedPromise.invokeCallback_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1366:14)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:482:23)\n    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:96:21)\n    at ElementFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:873:14)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:100:35)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2860:25)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom: Task: Run it(\"Logging Out and logging in with the End user which we just created\") in control flow\n    at Object.<anonymous> (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attemptAsync (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3945:24)\n    at QueueRunner.run (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3884:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3924:18\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3848:9\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2565:10)\n    at shutdownTask_.MicroTask (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2490:53)\n    at MicroTask.asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2619:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:94:2)\n    at addSpecsToSuite (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:994:25)\n    at Env.describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:961:7)\n    at describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4031:18)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:9:1)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (C:\\Users\\cdqp\\node_modules\\coffee-script\\lib\\coffee-script\\register.js:45:36)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n    at Array.forEach (native)\n    at Jasmine.loadSpecs (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:92:18)\n    at Jasmine.execute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:197:8)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:132:15\n    at Function.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:682:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:104:14\n    at _fulfilled (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:834:54)\n    at self.promiseDispatch.done (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:863:30)\n    at Promise.promise.promiseDispatch (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:796:13)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:556:49\n    at runSingle (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:125:13)\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickCallback (internal/process/next_tick.js:98:9)","passed":false,"expected":"","actual":""}
+[2017-06-28 23:47:20.676] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Validate Internal User Account Creation-', 'Fail', '2017-06-28 23:47:20', '{"matcherName":"","message":"Failed: No element found using locator: By(css selector, *[name=\"username\"])","stack":"NoSuchElementError: No element found using locator: By(css selector, *[name=\"username\"])\n    at WebDriverError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:27:5)\n    at NoSuchElementError (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:168:5)\n    at elementArrayFinder.getWebElements.then (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:851:17)\n    at ManagedPromise.invokeCallback_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1366:14)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2813:27)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:482:23)\n    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:96:21)\n    at ElementFinder.(anonymous function) [as sendKeys] (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\lib\\element.ts:873:14)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:100:35)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1067:7)\n    at ControlFlow.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2396:12)\n    at schedulerExecute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2970:14)\n    at TaskQueue.executeNext_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2953:27)\n    at asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2860:25)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom: Task: Run it(\"Logging Out and logging in with the End user which we just created\") in control flow\n    at Object.<anonymous> (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n    at attemptAsync (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3945:24)\n    at QueueRunner.run (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3884:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3924:18\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:3848:9\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n    at ControlFlow.emit (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n    at ControlFlow.shutdown_ (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2565:10)\n    at shutdownTask_.MicroTask (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2490:53)\n    at MicroTask.asyncRun (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2619:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)\nFrom asynchronous test: \nError\n    at Suite.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:94:2)\n    at addSpecsToSuite (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:994:25)\n    at Env.describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:961:7)\n    at describe (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4031:18)\n    at Object.<anonymous> (C:\\SPOD2QA\\spodQARepo\\test_spec\\TC09_Admin_InternalUserAccountCreation_DBValidation.js:9:1)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (C:\\Users\\cdqp\\node_modules\\coffee-script\\lib\\coffee-script\\register.js:45:36)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:93:5\n    at Array.forEach (native)\n    at Jasmine.loadSpecs (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:92:18)\n    at Jasmine.execute (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\jasmine\\lib\\jasmine.js:197:8)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:132:15\n    at Function.promise (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:682:9)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\built\\frameworks\\jasmine.js:104:14\n    at _fulfilled (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:834:54)\n    at self.promiseDispatch.done (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:863:30)\n    at Promise.promise.promiseDispatch (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:796:13)\n    at C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:556:49\n    at runSingle (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:137:13)\n    at flush (C:\\Users\\cdqp\\AppData\\Roaming\\nvm\\v6.9.4\\node_modules\\protractor\\node_modules\\q\\q.js:125:13)\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickCallback (internal/process/next_tick.js:98:9)","passed":false,"expected":"","actual":""}', 'NA')
+[2017-06-28 23:59:24.658] [INFO] Log - date time stamp - 2017-06-28 23:59:24
+[2017-06-28 23:59:24.661] [INFO] Log - Inside automationdb >> Insert result function.
+[2017-06-28 23:59:24.662] [INFO] Log - test env-------QA
+[2017-06-28 23:59:24.663] [INFO] Log - test build-------QA_Build
+[2017-06-28 23:59:24.665] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Validate Admin Account Creation-', 'Pass', '2017-06-28 23:59:24', '', 'NA')
+[2017-06-28 23:59:24.669] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Validate End User Account Creation-', 'Pass', '2017-06-28 23:59:24', '', 'NA')
+[2017-06-28 23:59:24.672] [INFO] Log - Failure reason - "Failed: No element found using locator: By(css selector, *[name=\"username\"])"
+[2017-06-28 23:59:24.673] [INFO] Log - INSERT INTO `automationdb`.`result` (`proj_id`, `env`, `build_no`, `test_type`, `test_name`, `test_result`, `time_stamp`, `result_detail`, `screenshot`) VALUES ('15', 'QA', 'QA_Build', 'smoke', 'Validate Internal User Account Creation-', 'Fail', '2017-06-28 23:59:24', '"Failed: No element found using locator: By(css selector, *[name=\"username\"])"', 'NA')
+[2017-12-26 15:40:33.984] [INFO] Log - Launching app env - spectrum-fcc |
+[2017-12-26 15:59:47.815] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fc:8080/fcc
+[2017-12-26 16:02:39.076] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:05:05.900] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:05:05.905] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 16:05:19.039] [INFO] Log - fnSet >> Element - [object Object]Value to set - admin
+[2017-12-26 16:05:19.040] [INFO] Log - fnSet >> Element - [object Object]Value to set - admin
+[2017-12-26 16:05:19.041] [INFO] Log - fnClick >> [object Object]
+[2017-12-26 16:05:19.041] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 16:12:24.759] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:12:24.762] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 16:13:41.094] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:13:41.099] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 16:13:46.102] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 16:13:46.103] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 16:13:46.104] [INFO] Log - fnClick >> undefined
+[2017-12-26 16:13:46.105] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 16:20:50.416] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:20:50.420] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 16:21:31.965] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:21:31.971] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 16:21:37.180] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 16:21:37.181] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 16:21:37.183] [INFO] Log - fnClick >> undefined
+[2017-12-26 16:21:37.183] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 16:27:10.193] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:27:10.197] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 16:38:12.635] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:38:12.639] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 16:38:18.067] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 16:38:18.069] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 16:38:18.070] [INFO] Log - fnClick >> undefined
+[2017-12-26 16:38:18.070] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 16:41:12.776] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 16:41:12.783] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 16:41:18.738] [INFO] Log - fnSet >> Element - [object Object]Value to set - admin
+[2017-12-26 16:41:18.739] [INFO] Log - fnSet >> Element - [object Object]Value to set - admin
+[2017-12-26 16:41:18.740] [INFO] Log - fnClick >> undefined
+[2017-12-26 16:41:18.741] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 17:12:16.746] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 17:12:16.750] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 17:12:22.077] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:12:22.078] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:12:22.080] [INFO] Log - fnClick >> undefined
+[2017-12-26 17:12:22.080] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 17:13:07.802] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 17:13:07.807] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 17:13:12.786] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:13:12.787] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:13:12.789] [INFO] Log - fnClick >> undefined
+[2017-12-26 17:13:12.789] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 17:23:38.094] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 17:23:38.099] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 17:23:43.551] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:23:43.553] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:23:43.555] [INFO] Log - fnClick >> undefined
+[2017-12-26 17:23:43.558] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 17:34:28.396] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 17:34:28.411] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 17:34:33.520] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:34:33.520] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:34:33.520] [INFO] Log - fnClick >> undefined
+[2017-12-26 17:34:33.520] [INFO] Log - Login to application - IT BLOCK.
+[2017-12-26 17:38:46.410] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2017-12-26 17:38:46.416] [INFO] Log - Launch application - IT BLOCK.
+[2017-12-26 17:38:51.585] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:38:51.587] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2017-12-26 17:38:51.589] [INFO] Log - fnClick >> undefined
+[2017-12-26 17:38:51.591] [INFO] Log - Login to application - IT BLOCK.
+[2018-02-15 12:29:36.759] [INFO] Log - Launching app env - spectrum-fcc | URL - http://spectrum-fcc1:8080/fcc
+[2018-02-15 12:29:36.766] [INFO] Log - Launch application - IT BLOCK.
+[2018-02-15 12:29:43.501] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2018-02-15 12:29:43.504] [INFO] Log - fnSet >> Element - undefinedValue to set - admin
+[2018-02-15 12:29:43.505] [INFO] Log - fnClick >> undefined
+[2018-02-15 12:29:43.507] [INFO] Log - Login to application - IT BLOCK.

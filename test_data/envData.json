@@ -1,0 +1,30 @@
+{
+    "email":"true",
+    "remorting":"true",
+    "qa":{
+            "fccperf4":{
+                "baseURL":"http://fccperf4:8080/",
+                "fccURL":"http://fccperf4:8080/fcc",
+                "MCURL":"http://fccperf4:8080/managementconsole",
+                "loginID":"admin",
+                "password":"admin"
+            },
+            "spectrumfcc":{
+                "baseURL":"http://spectrum-fc:8080/",
+                "fccURL":"http://spectrum-fc:8080/fcc",
+                "MCURL":"http://spectrum-fc:8080/managementconsole",
+                "loginID":"admin",
+                "password":"admin"
+            },
+            "spectrumfcc1":{
+                "baseURL":"http://spectrum-fcc1:8080/",
+                "fccURL":"http://spectrum-fcc1:8080/fcc",
+                "MCURL":"http://spectrum-fcc1:8080/managementconsole",
+                "loginID":"admin",
+                "password":"admin"
+            }
+    },   
+    "prod":{
+
+    }
+}   
