@@ -1,17 +1,12 @@
 
-# Spectrum OnDemand Self Care Portal - QA
+# Angular
 
-This project is aimed to Automate SPOD Application QA.
+This project is aimed to Automate Angular UI based application.
 
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-# Spectrum OnDemand Self Care Portal - QA
-
-This project is aimed to Automate - Spectrum OnDemand Self Care Portal QA.
-
 
 ## Getting Started
 
@@ -35,21 +30,16 @@ Nodemon - Optional
 Clone the repo locally
 ```
 $ git init
-Initialized empty Git repository in C:/SPOD2QA/spodQARepo/.git/
+Initialized empty Git repository in C:/angularNGQA/angularNGRepo/.git/
 
-$ git remote add origin http://dbygitmsprod.pbi.global.pvt/SpodSCP/SpodQA.git
+$ git remote add origin https://github.com/bharati055/AngularNG.git
 
 $ git remote -v
-origin  http://dbygitmsprod.pbi.global.pvt/SpodSCP/SpodQA.git (fetch)
-origin  http://dbygitmsprod.pbi.global.pvt/SpodSCP/SpodQA.git (push)
+origin  https://github.com/bharati055/AngularNG.git (fetch)
+origin  https://github.com/bharati055/AngularNG.git (push)
 
 $ git pull origin master
-remote: Counting objects: 3003, done.
-remote: Compressing objects: 100% (2073/2073), done.
-remote: Total 3003 (delta 772), reused 2988 (delta 765)
-Receiving objects: 100% (3003/3003), 3.12 MiB | 1.40 MiB/s, done.
-Resolving deltas: 100% (772/772), done.
-From http://dbygitmsprod.pbi.global.pvt/SpodSCP/SpodQA
+
  * branch            master     -> FETCH_HEAD
  * [new branch]      master     -> origin/master
 
